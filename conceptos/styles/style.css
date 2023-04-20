@@ -1,0 +1,24 @@
+/*
+div{
+    border: 4px solid black;
+    border;
+}
+*/
+
+.demo-content {
+    padding: 15px;
+    background: cornflowerblue;
+}
+
+.bg-alt{
+    background: khaki;
+}
+
+.main-content{
+    min-height: 230px;
+}
+
+.sidebar-content{
+    min-height: 100px;
+    margin-bottom: 30px;
+}
